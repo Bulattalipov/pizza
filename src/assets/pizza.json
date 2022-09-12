@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/7a8164f7c43646e19c20001eaec9b031_292x292.jpeg",
+    "title": "Корбанаро",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 803,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/4c7d597ec2074b1589e795d95db75f57_292x292.jpeg",
+    "title": "Додо Микс",
+    "types": [0],
+    "sizes": [30, 40],
+    "price": 910,
+    "category": 1,
+    "rating": 6
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/eb6d128bbcd340e98fd4f14b377e769f_292x292.jpeg",
+    "title": "Пепперони фреш",
+    "types": [1],
+    "sizes": [26, 30, 40],
+    "price": 790,
+    "category": 2,
+    "rating": 3
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/1e3e653d3e9b4b77ae0bdacf8827f6f6_292x292.jpeg",
+    "title": "Четыре сыра",
+    "types": [0, 1],
+    "sizes": [26, 30],
+    "price": 800,
+    "category": 2,
+    "rating": 3
+  }
+]
